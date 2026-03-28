@@ -132,13 +132,13 @@ Visual representation of test coverage.
 ### 🔹 Google Login Failure
 ![Google Login](./Screenshots/google-login-failure.png)
 
-### 🔹 Missing Validation (Login)
+### 🔹 Missing Error label during empty Login
 ![Validation Bug](./Screenshots/empty-login-no-validation.png)
 
-### 🔹 UI Text Error
+### 🔹 UI Text Error (Terms & Condition)
 ![UI Bug](./Screenshots/Incorrect%20spelling.PNG)
 
-### 🔹 UI Behavior Issue
+### 🔹 UI Language Issue
 ![Language Bug](./Screenshots/Privacy%20policy%20language%20issue.PNG)
 
 ---
