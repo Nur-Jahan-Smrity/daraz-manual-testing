@@ -1,4 +1,11 @@
 # 🛒 Daraz App Manual Testing Project
+![Testing](https://img.shields.io/badge/Testing-Manual-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Test Cases](https://img.shields.io/badge/Test_Cases-79-orange)
+![Passed](https://img.shields.io/badge/Passed-62-success)
+![Failed](https://img.shields.io/badge/Failed-16-red)
+
+---
 
 ## 📌 Project Overview
 
@@ -73,7 +80,21 @@ Out of **79 test cases**, **100% were executed**.
 | Login (Phone OTP) | 3 | OTP delay/failure, Google login issue |
 
 ---
+## 📂 Project Structure
 
+
+daraz-manual-testing/
+│
+├── Test Plan/
+├── Mind Map/
+├── Test Scenarios/
+├── Test Cases/
+├── Bug Reports/
+├── Test Matrix/
+└── Test Summary/
+
+
+---
 ## 📂 Project Artifacts
 
 ### ✔️ Test Plan
@@ -106,7 +127,27 @@ Requirement-to-test case mapping.
 Visual representation of test coverage.
 
 ---
+## 📸 Bug Screenshots
 
+### 🔹 Google Login Failure
+![Google Login](./Bug%20Reports/google-login-failure.png)
+
+### 🔹 Missing Validation (Login)
+![Validation Bug](./Bug%20Reports/empty-login-no-validation.png)
+
+### 🔹 Invalid Email Accepted
+![Email Bug](./Bug%20Reports/invalid-email-validation.png)
+
+### 🔹 OTP Issue
+![OTP Bug](./Bug%20Reports/otp-second-attempt.png)
+
+### 🔹 UI Text Error
+![UI Bug](./Bug%20Reports/spelling-error-terms.png)
+
+### 🔹 UI Behavior Issue
+![UI Bug](./Bug%20Reports/underline-disappear.png)
+
+---
 ## 🔍 Key Findings
 
 ### 🔴 Critical Issues
@@ -150,6 +191,13 @@ Aspiring Full Stack QA Engineer
 
 ---
 
+## 📄 Project Description
+
+**Daraz Manual Testing Project**  
+Conducted end-to-end manual testing on authentication modules (Sign Up & Login) of the Daraz platform. Designed and executed 79 test cases, identified 16 defects related to validation, UI/UX, and third-party authentication. Prepared detailed test documentation including test cases, bug reports, and summary reports.
+
+---
+
 ## 📎 Note
 
-This project is created for **learning and portfolio purposes**, demonstrating real-world **manual testing workflow, defect tracking, and analytical reporting skills**.
+This project is created for **learning and portfolio purposes**, demonstrating practical **manual testing skills, defect analysis, and structured reporting**.
