@@ -127,25 +127,19 @@ Requirement-to-test case mapping.
 Visual representation of test coverage.
 
 ---
-## 📸 Bug Screenshots
+## 📸 Some Bug Screenshots
 
 ### 🔹 Google Login Failure
-![Google Login](./Bug%20Reports/google-login-failure.png)
+![Google Login](./Screenshots/google-login-failure.png)
 
 ### 🔹 Missing Validation (Login)
-![Validation Bug](./Bug%20Reports/empty-login-no-validation.png)
-
-### 🔹 Invalid Email Accepted
-![Email Bug](./Bug%20Reports/invalid-email-validation.png)
-
-### 🔹 OTP Issue
-![OTP Bug](./Bug%20Reports/otp-second-attempt.png)
+![Validation Bug](./Screenshots/empty-login-no-validation.png)
 
 ### 🔹 UI Text Error
-![UI Bug](./Bug%20Reports/spelling-error-terms.png)
+![UI Bug](./Screenshots/Incorrect%20spelling.PNG)
 
 ### 🔹 UI Behavior Issue
-![UI Bug](./Bug%20Reports/underline-disappear.png)
+![Language Bug](./Screenshots/Privacy%20policy%20language%20issue.PNG)
 
 ---
 ## 🔍 Key Findings
