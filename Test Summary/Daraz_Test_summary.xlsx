@@ -1,0 +1,50 @@
+TEST SUMMARY REPORT												
+												
+Project Name        	Daraz											
+Module Name         	Sign Up & Login											
+Prepared By         	Nur Jahan Smrity											
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+Matric	Value											
+Total Test Cases	79											
+Executed	79											
+Passed	62											
+Failed	16											
+Not Run	0											
+Blocked	0											
+Improvement	1											
+												
+LIMITATIONS												
+Documents				Received 	Useful							
+PRD				No	No							
+USER STORY				No	No							
+												
+												
+Testing Type	In Scope / Description	Yes/No	Justification (If No)									
+Functional Testing	Sign up flow, Login flow, Buttons, fields, validations	Yes	–									
+Integration Testing	End-to-end integration between modules/services (like backend APIs, payment, full system flow)	No	End-to-end integration was not fully tested.									
+Negative Testing	Invalid phone number, Empty input, Wrong format	Yes	–									
+Usability Testing	UI clarity (e.g., “usage of Daraz” unclear), Spelling issues, User experience problems	Yes	–									
+Browser Compatibility Testing	Cross-browser testing	No	Testing was performed only on a single browser (Chrome); cross-browser compatibility was not covered.									
+Boundary Value Testing	Extra digits, Less digits, Edge cases in phone number	Yes	–									
+Risk-Based / Regression Testing	Regression or risk-based prioritization	No	Not performed due to limited scope and no previous build comparison.									
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
