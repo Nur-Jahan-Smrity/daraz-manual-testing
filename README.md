@@ -137,7 +137,7 @@ Visual representation of test coverage.
 
 - Microsoft Excel  
 - Google Sheets  
-- Draw.io (Mind Map)  
+- Xmind (Mind Map)  
 - Web & Mobile Browsers  
 
 ---
@@ -146,7 +146,7 @@ Visual representation of test coverage.
 
 **Nurjahan Smrity**  
 BSc in Computer Science & Engineering  
-Aspiring Software QA Engineer  
+Aspiring Full Stack QA Engineer  
 
 ---
 
